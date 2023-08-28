@@ -22,7 +22,7 @@ public class GetCookiesServlet extends HttpServlet {
 
         if (cookies != null) {
             for (Cookie cookie : cookies) {
-                pw.println("<p>" + cookie.getName() + " - " + cookie.getValue() + " (max age = " + cookie.getMaxAge() + " days)</p><hr>");
+                pw.println("<p>" + cookie.getName() + " - " + cookie.getValue() + "    (max age = " + cookie.getMaxAge() + " days)</p><hr>");
             }
         } else {
             pw.println("<br><h2> You haven't cookies, click to <a href=\"set-cookies\">set cookies</a></h2>");

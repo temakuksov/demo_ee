@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bef8f48-07c4-46d0-9013-ee74d9c00864" name="Changes" comment="JSP + Servlet">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/hw_cookies/DelCookiesServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/hw_cookies/GetCookiesServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/hw_cookies/SetCookiesServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="4bef8f48-07c4-46d0-9013-ee74d9c00864" name="Changes" comment="JSP + Servlet + Cookies" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +169,7 @@
       <workItem from="1693249301220" duration="1441000" />
       <workItem from="1693250828703" duration="18000" />
       <workItem from="1693250998349" duration="81000" />
-      <workItem from="1693251096483" duration="5130000" />
+      <workItem from="1693251096483" duration="5475000" />
     </task>
     <task id="LOCAL-00001" summary="JSP + Servlet">
       <option name="closed" value="true" />
@@ -203,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690222788106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JSP + Servlet + Cookies">
+      <option name="closed" value="true" />
+      <created>1693256863233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693256863234</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +211,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JSP + Servlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSP + Servlet" />
+    <MESSAGE value="JSP + Servlet + Cookies" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSP + Servlet + Cookies" />
   </component>
 </project>
