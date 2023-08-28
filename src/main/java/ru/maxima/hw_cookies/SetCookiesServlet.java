@@ -15,9 +15,9 @@ public class SetCookiesServlet extends HttpServlet {
         Cookie cFName = new Cookie("first-name", "Jack");
         Cookie cSName = new Cookie("second-name", "Smith");
         Cookie cAge = new Cookie("age", "36");
-        cFName.setMaxAge(24*60*60);
-        cSName.setMaxAge(24*60*60);
-        cAge.setMaxAge(24*60*60);
+        cFName.setMaxAge(240*60*60);
+        cSName.setMaxAge(86400);
+        cAge.setMaxAge(Integer.parseInt(cAge.getValue())*24*60*60);
 
         response.addCookie(cFName);
         response.addCookie(cSName);
