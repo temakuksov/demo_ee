@@ -10,7 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bef8f48-07c4-46d0-9013-ee74d9c00864" name="Changes" comment="JSP + Servlet">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/hw_cookies/DelCookiesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/hw_cookies/GetCookiesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/maxima/hw_cookies/SetCookiesServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +40,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2SquLX6xjPEMDsbkS40y5fhf6vq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,6 +65,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -161,6 +172,12 @@
       <workItem from="1689889411852" duration="638000" />
       <workItem from="1689953548686" duration="69000" />
       <workItem from="1690219198705" duration="3215000" />
+      <workItem from="1690222478911" duration="490000" />
+      <workItem from="1693244156193" duration="1115000" />
+      <workItem from="1693249301220" duration="1441000" />
+      <workItem from="1693250828703" duration="18000" />
+      <workItem from="1693250998349" duration="81000" />
+      <workItem from="1693251096483" duration="5130000" />
     </task>
     <task id="LOCAL-00001" summary="JSP + Servlet">
       <option name="closed" value="true" />
@@ -170,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690222354150</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JSP + Servlet">
+      <option name="closed" value="true" />
+      <created>1690222618736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690222618736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JSP + Servlet">
+      <option name="closed" value="true" />
+      <created>1690222788106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690222788106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

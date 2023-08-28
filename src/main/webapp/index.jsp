@@ -22,5 +22,9 @@
             new SimpleDateFormat ("yyyy-MM-dd HH:mm:ss");
     out.print( "<h4 align=\"left\"> Сегодня: " + ft.format(dNow) + "</h4>");
 %>
+<hr>
+<p><a title="Вывести Cookies" href="get-cookies">Get cookies</a> - Вывести Cookies</p>
+<p><a title="Создать Cookies" href="set-cookies">Set cookies</a> - Создать Cookies</p>
+<p><a title="Удалить Cookies" href="del-cookies">Del cookies</a> - Удалить Cookies</p>
 </body>
 </html>
